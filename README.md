@@ -3,15 +3,15 @@
 ### Step 01
 * Initially collected data from the resource provided by the company in the form of tsv. After that imported the data in the form of data frame by using pandas module.
 ### Step 02
-* Performed data wrangling and did visualization which represents the number of positiv reviews and negative reviews in the data by using matplotlib and seaborn.
+* Performed data wrangling and did visualization which represents the number of positive reviews and negative reviews in the data by using matplotlib and seaborn.
 ### Step 03
-* Preprocessed the data and create a model by using Support Vector Machine. It gives the accuracy of 47% which is very low.
+* Pre processed the data and created a model by using Support Vector Machine. It gives the accuracy of 47% which is very low.
 ### Step 04
 * Created a Multinomial Naive Bayes model which gives the accuracy of 76% which is quite good.
 ### Step 04
 * After that created pipe lines for both SVC and Naive Bayes models.
 ### Step 05
-* Saved the model by using joblib which is similar to pickle.
+* Saved the best model by that is naive bayes by using joblib which is similar to pickle.
 ### Step 06
 Finally created a streamlit web app for sentiment analysis using the joblib model.
 
