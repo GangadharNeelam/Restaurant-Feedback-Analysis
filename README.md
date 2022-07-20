@@ -16,7 +16,7 @@
 Finally created a streamlit web app for sentiment analysis using the joblib model.
 
 ![Screenshot (461)](https://user-images.githubusercontent.com/93145713/179981591-891f1c95-f9c3-4a88-8dc5-a4b2baf4fb4e.png)
-## Positive review
+#### Prediction 01
 ![Screenshot (462)](https://user-images.githubusercontent.com/93145713/179981776-71e8f990-9218-4559-8961-6c9757feb766.png)
-## Negative review
+#### Prediction 02
 ![Screenshot (463)](https://user-images.githubusercontent.com/93145713/179981884-b0f367ca-4105-4b80-b8d3-85025f83828a.png)
